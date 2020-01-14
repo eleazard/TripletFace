@@ -79,7 +79,7 @@ optional arguments:
 
 ## Todo ( For the students )
 
-**Deadline Decembre 14th 2019 at 12am**
+**Deadline Decembre 14th 2019 at 12am** aheum... koff koff
 
 The students are asked to complete the following tasks:
 * Fork the Project
@@ -90,3 +90,14 @@ The students are asked to complete the following tasks:
 * Add inference script in order to use the final model
 * Change README.md in order to include the student choices explained and a table containing the Centroids and Thesholds for each student of the dataset with a vizualisation ( See the one above )
 * Send the github link by mail
+
+## Done (by me... a student)
+
+* Forked the project.. first time on github i succeed !
+* Improve the model : nah i don't understand much of what i was doing i didn't want to break everything
+* JIT compile the model: yup done ! using the same method as Brice did
+* Add script to generate Centroids and Thresholds : added Brice's script, i know he is using inception instead of resnet but... since the input is an arg define in the begginning it should be fine.
+* Generate.... NAH STAHP i'm done ! i did'nt understood much the previous step so i wont continue in complete darkness
+* hello darkness my old friend...
+
+![me](me.jpg)
